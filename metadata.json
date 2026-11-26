@@ -1,0 +1,6 @@
+{
+  "name": "VoxDeck",
+  "description": "Offline-first Android soundboard and AI voice deck with Cartesia TTS, offline TTS fallback, floating overlay, and Root/Shizuku audio routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

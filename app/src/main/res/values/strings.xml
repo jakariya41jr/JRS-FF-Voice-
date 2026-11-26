@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VoxDeck</string>
+    <string name="overlay_notification_channel">VoxDeck Overlay &amp; Playback</string>
+    <string name="overlay_notification_title">VoxDeck Soundboard Active</string>
+    <string name="overlay_notification_text">Floating soundpad overlay is running</string>
+    <string name="action_stop_all">All Stop</string>
+</resources>
